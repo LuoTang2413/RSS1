@@ -49,10 +49,15 @@
 ### 1.9、Nonlinear Sciences（非线性科学）
 - https://export.arxiv.org/rss/nlin
 #### 1.9.1、Adaptation and Self-Organizing Systems（适应和自组织系统）
+- https://export.arxiv.org/rss/nlin.AO
 #### 1.9.2、Cellular Automata and Lattice Gases（元胞自动机和晶格气体）
+- https://export.arxiv.org/rss/nlin.CG
 #### 1.9.3、Chaotic Dynamics（混沌动力学）
+- https://export.arxiv.org/rss/nlin.CD
 #### 1.9.4、Exactly Solvable and Integrable Systems（精确可解和可集成的系统）
+- https://export.arxiv.org/rss/nlin.SI
 #### 1.9.5、Pattern Formation and Solitons（模式形成和孤子）
+- https://export.arxiv.org/rss/nlin.PS
 ### 1.10、Nuclear Experiment（核实验）
 - https://export.arxiv.org/rss/nucl-ex
 ### 1.11、Nuclear Theory（核理论）
