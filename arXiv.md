@@ -113,6 +113,42 @@
 ## 2、Mathematics（数学）
 ### 2.1、Mathematics（数学）
 - https://export.arxiv.org/rss/math
+
+Algebraic Geometry（代数几何）
+Algebraic Topology（代数拓扑）
+Analysis of PDEs（偏微分方程分析）
+Category Theory（范畴论）
+Classical Analysis and ODEs（经典分析和常微分方程）
+Combinatorics（组合数学）
+Commutative Algebra（交换代数）
+Complex Variables（复杂变量）
+Differential Geometry（微分几何）
+Dynamical Systems（动力系统）
+Functional Analysis（泛函分析）
+General Mathematics（普通数学）
+General Topology（常规拓扑）
+Geometric Topology（几何拓扑）
+Group Theory（群论）
+History and Overview（历史和概述）
+Information Theory（信息论）
+K-Theory and Homology（K理论与同调）
+Logic（逻辑）
+Mathematical Physics（数学物理）
+Metric Geometry（公制几何）
+Number Theory（数论）
+Numerical Analysis（数值分析）
+Operator Algebras（算子代数）
+Optimization and Control（优化与控制）
+Probability（概率）
+Quantum Algebra（量子代数）
+Representation Theory（表征理论）
+Rings and Algebras（环和代数）
+Spectral Theory（光谱理论）
+Statistics Theory（统计理论）
+Symplectic Geometry（辛几何）
+
+
+
 ## 3、Computer Science（计算机科学）
 - https://export.arxiv.org/rss/cs
 ### 3.1、Computing Research Repository（计算研究存储库）
