@@ -1,32 +1,32 @@
 # arXiv
-## 1、Physics
-### 1.1、Astrophysics
-### 1.2、Condensed Matter
-### 1.3、General Relativity and Quantum Cosmology
-### 1.4、High Energy Physics - Experiment
-### 1.5、High Energy Physics - Lattice
-### 1.6、High Energy Physics - Phenomenology
-### 1.7、High Energy Physics - Theory
-### 1.8、Mathematical Physics
-### 1.9、Nonlinear Sciences
-### 1.10、Nuclear Experiment
-### 1.11、Nuclear Theory
-### 1.12、Physics
-### 1.13、Quantum Physics
-## 2、Mathematics
-### 2.1、Mathematics
-## 3、Computer Science
-### 3.1、Computing Research Repository
-## 4、Quantitative Biology
-### 4.1、Quantitative Biology
-## 5、Quantitative Finance
-### 5.1、Quantitative Finance
-## 6、Statistics
-### 6.1、Statistics
-## 7、Electrical Engineering and Systems Science
-### 7.1、lectrical Engineering and Systems Science
-## 8、Economics
-### 8.1、Economics
+## 1、Physics（物理）
+### 1.1、Astrophysics（天体物理学）
+### 1.2、Condensed Matter（凝聚态物质）
+### 1.3、General Relativity and Quantum Cosmology（广义相对论和量子宇宙学）
+### 1.4、High Energy Physics - Experiment（高能物理 - 实验）
+### 1.5、High Energy Physics - Lattice（高能物理 - 格子）
+### 1.6、High Energy Physics - Phenomenology（高能物理 - 现象学）
+### 1.7、High Energy Physics - Theory（高能物理 - 理论）
+### 1.8、Mathematical Physics（数学物理）
+### 1.9、Nonlinear Sciences（非线性科学）
+### 1.10、Nuclear Experiment（核实验）
+### 1.11、Nuclear Theory（核理论）
+### 1.12、Physics（物理）
+### 1.13、Quantum Physics（量子物理学）
+## 2、Mathematics（数学）
+### 2.1、Mathematics（数学）
+## 3、Computer Science（计算机科学）
+### 3.1、Computing Research Repository（计算研究存储库）
+## 4、Quantitative Biology（定量生物学）
+### 4.1、Quantitative Biology（定量生物学）
+## 5、Quantitative Finance（量化金融）
+### 5.1、Quantitative Finance（量化金融）
+## 6、Statistics（统计学）
+### 6.1、Statistics（统计学）
+## 7、Electrical Engineering and Systems Science（电气工程与系统科学）
+### 7.1、Electrical Engineering and Systems Science（电气工程与系统科学）
+## 8、Economics（经济学）
+### 8.1、Economics（经济学）
 
 
 
