@@ -29,7 +29,7 @@
 ### 8.1、Economics（经济学）
 
 # 相关工具
-## arXiv Vanity：https://github.com/arxiv-vanity/arxiv-vanity
+## arXiv Vanity：https://github.com/arxiv-vanity/arxiv-vanity https://www.arxiv-vanity.com/
 - arXiv Vanity 将来自 arXiv 的论文呈现为响应式网页，因此您不必眯着眼睛看 PDF。
 
 
