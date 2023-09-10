@@ -10,6 +10,15 @@
 #### 1.1.6、Solar and Stellar Astrophysics（太阳和恒星天体物理学）
 ### 1.2、Condensed Matter（凝聚态物质）
 - https://export.arxiv.org/rss/cond-mat
+#### 1.2.1、Disordered Systems and Neural Networks（无序系统和神经网络）
+#### 1.2.2、Materials Science（材料科学）
+#### 1.2.3、Mesoscale and Nanoscale Physics（介尺度和纳米级物理）
+#### 1.2.4、Other Condensed Matter（其他凝聚态物质）
+#### 1.2.5、Quantum Gases（量子气体）
+#### 1.2.6、Soft Condensed Matter（软凝聚态物质）
+#### 1.2.7、Statistical Mechanics（统计力学）
+#### 1.2.8、Strongly Correlated Electrons（强相关电子）
+#### 1.2.9、Superconductivity（超导电性）
 ### 1.3、General Relativity and Quantum Cosmology（广义相对论和量子宇宙学）
 - https://export.arxiv.org/rss/gr-qc
 ### 1.4、High Energy Physics - Experiment（高能物理 - 实验）
