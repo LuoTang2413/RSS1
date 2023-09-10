@@ -3,11 +3,17 @@
 ### 1.1、Astrophysics（天体物理学）
 - https://export.arxiv.org/rss/astro-ph
 #### 1.1.1、Astrophysics of Galaxies（星系的天体物理学）
+- https://export.arxiv.org/rss/astro-ph.GA
 #### 1.1.2、Cosmology and Nongalactic Astrophysics（宇宙学和非银河天体物理学）
+- https://export.arxiv.org/rss/astro-ph.CO
 #### 1.1.3、Earth and Planetary Astrophysics（地球和行星天体物理学）
+- https://export.arxiv.org/rss/astro-ph.EP
 #### 1.1.4、High Energy Astrophysical Phenomena（高能天体物理现象）
+- https://export.arxiv.org/rss/astro-ph.HE
 #### 1.1.5、Instrumentation and Methods for Astrophysics（天体物理学的仪器和方法）
+- https://export.arxiv.org/rss/astro-ph.IM
 #### 1.1.6、Solar and Stellar Astrophysics（太阳和恒星天体物理学）
+- https://export.arxiv.org/rss/astro-ph.SR
 ### 1.2、Condensed Matter（凝聚态物质）
 - https://export.arxiv.org/rss/cond-mat
 #### 1.2.1、Disordered Systems and Neural Networks（无序系统和神经网络）
