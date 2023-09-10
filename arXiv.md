@@ -65,28 +65,49 @@
 ### 1.12、Physics（物理）
 - https://export.arxiv.org/rss/physics
 #### 1.12.1、Accelerator Physics（加速器物理）
+- https://export.arxiv.org/rss/physics.acc-ph
 #### 1.12.2、Applied Physics（应用物理学）
+- https://export.arxiv.org/rss/physics.app-ph
 #### 1.12.3、Atmospheric and Oceanic Physics（大气和海洋物理学）
+- https://export.arxiv.org/rss/physics.ao-ph
 #### 1.12.4、Atomic and Molecular Clusters（原子和分子簇）
+- https://export.arxiv.org/rss/physics.atm-clus
 #### 1.12.5、Atomic Physics（原子物理学）
+- https://export.arxiv.org/rss/physics.atom-ph
 #### 1.12.6、Biological Physics（生物物理学）
+- https://export.arxiv.org/rss/physics.bio-ph
 #### 1.12.7、Chemical Physics（化学物理）
+- https://export.arxiv.org/rss/physics.chem-ph
 #### 1.12.8、Classical Physics（经典物理学）
+- https://export.arxiv.org/rss/physics.class-ph
 #### 1.12.9、Computational Physics（计算物理）
+- https://export.arxiv.org/rss/physics.comp-ph
 #### 1.12.10、Data Analysis, Statistics and Probability（数据分析、统计和概率）
+- https://export.arxiv.org/rss/physics.data-an
 #### 1.12.11、Fluid Dynamics（流体力学）
+- https://export.arxiv.org/rss/physics.flu-dyn
 #### 1.12.12、General Physics（普通物理）
+- https://export.arxiv.org/rss/physics.gen-ph
 #### 1.12.13、Geophysics（地球物理学）
+- https://export.arxiv.org/rss/physics.geo-ph
 #### 1.12.14、History and Philosophy of Physics（物理学史与哲学）
+- https://export.arxiv.org/rss/physics.hist-ph
 #### 1.12.15、Instrumentation and Detectors（仪器仪表和探测器）
+- https://export.arxiv.org/rss/physics.ins-det
 #### 1.12.16、Medical Physics（医学物理学）
+- https://export.arxiv.org/rss/physics.med-ph
 #### 1.12.17、Optics（光学）
+- https://export.arxiv.org/rss/physics.optics
 #### 1.12.18、Physics and Society（物理学与社会）
+- https://export.arxiv.org/rss/physics.soc-ph
 #### 1.12.19、Physics Education（物理教育）
+- https://export.arxiv.org/rss/physics.ed-ph
 #### 1.12.20、Plasma Physics（等离子体物理）
+- https://export.arxiv.org/rss/physics.plasm-ph
 #### 1.12.21、Popular Physics（大众物理）
+- https://export.arxiv.org/rss/physics.pop-ph
 #### 1.12.22、Space Physics（空间物理）
-
+- https://export.arxiv.org/rss/physics.space-ph
 ### 1.13、Quantum Physics（量子物理学）
 - https://export.arxiv.org/rss/quant-ph
 ## 2、Mathematics（数学）
@@ -115,6 +136,13 @@
 # 相关工具
 ## arXiv Vanity：https://github.com/arxiv-vanity/arxiv-vanity https://www.arxiv-vanity.com/
 - arXiv Vanity 将来自 arXiv 的论文呈现为响应式网页，因此您不必眯着眼睛看 PDF。
+
+
+
+
+
+
+
 
 
 
