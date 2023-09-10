@@ -16,29 +16,23 @@
 ## 2、Mathematics（数学）
 ### 2.1、Mathematics（数学）
 - https://export.arxiv.org/rss/math
-- 
 ## 3、Computer Science（计算机科学）
 ### 3.1、Computing Research Repository（计算研究存储库）
 ## 4、Quantitative Biology（定量生物学）
 ### 4.1、Quantitative Biology（定量生物学）
 - https://export.arxiv.org/rss/q-bio
-- 
 ## 5、Quantitative Finance（量化金融）
 ### 5.1、Quantitative Finance（量化金融）
 - https://export.arxiv.org/rss/q-fin
-- 
 ## 6、Statistics（统计学）
 ### 6.1、Statistics（统计学）
 - https://export.arxiv.org/rss/stat
-- 
 ## 7、Electrical Engineering and Systems Science（电气工程与系统科学）
 ### 7.1、Electrical Engineering and Systems Science（电气工程与系统科学）
 - https://export.arxiv.org/rss/eess
-- 
 ## 8、Economics（经济学）
 ### 8.1、Economics（经济学）
 - https://export.arxiv.org/rss/econ
-- 
 
 # 相关工具
 ## arXiv Vanity：https://github.com/arxiv-vanity/arxiv-vanity https://www.arxiv-vanity.com/
