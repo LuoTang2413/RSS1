@@ -38,14 +38,35 @@
 #### 1.9.3、Chaotic Dynamics（混沌动力学）
 #### 1.9.4、Exactly Solvable and Integrable Systems（精确可解和可集成的系统）
 #### 1.9.5、Pattern Formation and Solitons（模式形成和孤子）
-
-
 ### 1.10、Nuclear Experiment（核实验）
 - https://export.arxiv.org/rss/nucl-ex
 ### 1.11、Nuclear Theory（核理论）
 - https://export.arxiv.org/rss/nucl-th
 ### 1.12、Physics（物理）
 - https://export.arxiv.org/rss/physics
+#### 1.12.1、Accelerator Physics（加速器物理）
+#### 1.12.2、Applied Physics（应用物理学）
+#### 1.12.3、Atmospheric and Oceanic Physics（大气和海洋物理学）
+#### 1.12.4、Atomic and Molecular Clusters（原子和分子簇）
+#### 1.12.5、Atomic Physics（原子物理学）
+#### 1.12.6、Biological Physics（生物物理学）
+#### 1.12.7、Chemical Physics（化学物理）
+#### 1.12.8、Classical Physics（经典物理学）
+#### 1.12.9、Computational Physics（计算物理）
+#### 1.12.10、Data Analysis, Statistics and Probability（数据分析、统计和概率）
+#### 1.12.11、Fluid Dynamics（流体力学）
+#### 1.12.12、General Physics（普通物理）
+#### 1.12.13、Geophysics（地球物理学）
+#### 1.12.14、History and Philosophy of Physics（物理学史与哲学）
+#### 1.12.15、Instrumentation and Detectors（仪器仪表和探测器）
+#### 1.12.16、Medical Physics（医学物理学）
+#### 1.12.17、Optics（光学）
+#### 1.12.18、Physics and Society（物理学与社会）
+#### 1.12.19、Physics Education（物理教育）
+#### 1.12.20、Plasma Physics（等离子体物理）
+#### 1.12.21、Popular Physics（大众物理）
+#### 1.12.22、Space Physics（空间物理）
+
 ### 1.13、Quantum Physics（量子物理学）
 - https://export.arxiv.org/rss/quant-ph
 ## 2、Mathematics（数学）
