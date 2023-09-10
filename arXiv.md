@@ -26,7 +26,7 @@ Quantum Physics
 ## 7、Electrical Engineering and Systems Science
 ### 7.1、lectrical Engineering and Systems Science
 ## 8、Economics
-### 8.1、https://arxiv.org/archive/econ
+### 8.1、Economics
 
 
 
