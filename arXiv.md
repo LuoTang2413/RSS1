@@ -1,22 +1,36 @@
 # arXiv
 ## 1、Physics（物理）
 ### 1.1、Astrophysics（天体物理学）
+- https://export.arxiv.org/rss/astro-ph
 ### 1.2、Condensed Matter（凝聚态物质）
+- https://export.arxiv.org/rss/cond-mat
 ### 1.3、General Relativity and Quantum Cosmology（广义相对论和量子宇宙学）
+- https://export.arxiv.org/rss/gr-qc
 ### 1.4、High Energy Physics - Experiment（高能物理 - 实验）
+- https://export.arxiv.org/rss/hep-ex
 ### 1.5、High Energy Physics - Lattice（高能物理 - 格子）
+- https://export.arxiv.org/rss/hep-lat
 ### 1.6、High Energy Physics - Phenomenology（高能物理 - 现象学）
+- https://export.arxiv.org/rss/hep-ph
 ### 1.7、High Energy Physics - Theory（高能物理 - 理论）
+- https://export.arxiv.org/rss/hep-th
 ### 1.8、Mathematical Physics（数学物理）
+- https://export.arxiv.org/rss/math-ph
 ### 1.9、Nonlinear Sciences（非线性科学）
+- https://export.arxiv.org/rss/nlin
 ### 1.10、Nuclear Experiment（核实验）
+- https://export.arxiv.org/rss/nucl-ex
 ### 1.11、Nuclear Theory（核理论）
+- https://export.arxiv.org/rss/nucl-th
 ### 1.12、Physics（物理）
+- https://export.arxiv.org/rss/physics
 ### 1.13、Quantum Physics（量子物理学）
+- https://export.arxiv.org/rss/quant-ph
 ## 2、Mathematics（数学）
 ### 2.1、Mathematics（数学）
 - https://export.arxiv.org/rss/math
 ## 3、Computer Science（计算机科学）
+- https://export.arxiv.org/rss/cs
 ### 3.1、Computing Research Repository（计算研究存储库）
 ## 4、Quantitative Biology（定量生物学）
 ### 4.1、Quantitative Biology（定量生物学）
@@ -33,6 +47,7 @@
 ## 8、Economics（经济学）
 ### 8.1、Economics（经济学）
 - https://export.arxiv.org/rss/econ
+
 
 # 相关工具
 ## arXiv Vanity：https://github.com/arxiv-vanity/arxiv-vanity https://www.arxiv-vanity.com/
