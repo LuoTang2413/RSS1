@@ -17,11 +17,17 @@
 ### 1.2、Condensed Matter（凝聚态物质）
 - https://export.arxiv.org/rss/cond-mat
 #### 1.2.1、Disordered Systems and Neural Networks（无序系统和神经网络）
+- https://export.arxiv.org/rss/cond-mat.dis-nn
 #### 1.2.2、Materials Science（材料科学）
+- https://export.arxiv.org/rss/cond-mat.mtrl-sci
 #### 1.2.3、Mesoscale and Nanoscale Physics（介尺度和纳米级物理）
+- https://export.arxiv.org/rss/cond-mat.mes-hall
 #### 1.2.4、Other Condensed Matter（其他凝聚态物质）
+- https://export.arxiv.org/rss/cond-mat.other
 #### 1.2.5、Quantum Gases（量子气体）
+- https://export.arxiv.org/rss/cond-mat.quant-gas
 #### 1.2.6、Soft Condensed Matter（软凝聚态物质）
+- https://export.arxiv.org/rss/cond-mat.soft
 #### 1.2.7、Statistical Mechanics（统计力学）
 #### 1.2.8、Strongly Correlated Electrons（强相关电子）
 #### 1.2.9、Superconductivity（超导电性）
